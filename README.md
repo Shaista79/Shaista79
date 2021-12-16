@@ -12,8 +12,8 @@
 ## ✉️ Find me on:
 <p align="center">
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shaista-naaz-bb1296170" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="JS" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:shaistanaaz79@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://twitter.com/shaista__Naaz?t=08wBlRGuEXwIY_gooCdwrA&s=08" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:shaistanaaz79@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://twitter.com/shaista__Naaz?t=08wBlRGuEXwIY_gooCdwrA&s=08" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## 🧰 Languages and Tools:
