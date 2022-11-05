@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a Pharmaceutical Website.
+
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything...
 - 📫 How to reach me: shaistanaaz79@gmail.com
